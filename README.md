@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [see my solution to this challenge](https://www.frontendmentor.io/solutions/responsive-...)
+- Solution URL: [see my solution to this challenge](https://www.frontendmentor.io/solutions/responsive-coming-soon-page-using-css-and-javascript-coM5ak9q01)
 - Live Site URL: Live Site URL: [view live site](https://damola-147.github.io/base-apparel-coming-soon-page/)
 
 ## My process
